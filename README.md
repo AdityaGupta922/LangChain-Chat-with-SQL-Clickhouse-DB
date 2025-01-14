@@ -1,1 +1,1 @@
-# LangChain-Chat-with-SQL-Clickhouse-DB
+# 🦜 LangChain: Chat with SQL & Clickhouse DB
